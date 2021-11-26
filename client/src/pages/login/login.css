@@ -1,0 +1,19 @@
+.vertical-center {
+  min-height: 75%; /* Fallback for browsers do NOT support vh unit */
+  min-height: 75vh; /* These two lines are counted as one :-)       */
+
+  display: flex;
+  align-items: center;
+}
+
+.link {
+  text-decoration: none;
+  font-size: 1em;
+}
+
+.error {
+  color: red;
+}
+.header-login {
+  padding-top: 100px;
+}

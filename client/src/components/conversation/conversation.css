@@ -1,0 +1,16 @@
+.background-conv {
+  border-radius: 25px;
+  background-color: white;
+}
+.conversation {
+  font-size: 1.25em;
+}
+.conversation-name {
+  color: #474afe;
+}
+
+.message {
+  font-size: 1em;
+  color: gray;
+  max-width: 300px;
+}

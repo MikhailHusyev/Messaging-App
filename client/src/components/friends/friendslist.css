@@ -1,0 +1,16 @@
+.search-line {
+  border-radius: 25px;
+  color: black;
+}
+
+.avatar-col-search {
+  float: right;
+}
+
+.search-name {
+  float: left;
+}
+
+.add-button {
+  float: left;
+}
